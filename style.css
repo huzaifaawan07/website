@@ -1,0 +1,25 @@
+.list{
+    list-style-type: none;
+    
+}
+li{
+    display: inline-block;
+    margin-top: 0.5em;
+    margin-left: 1em;
+    
+}
+
+.text{
+    color: cornsilk;
+}
+.button{
+    padding: 1px;
+}
+.main{
+    background-color: rgb(9, 124, 255);
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
